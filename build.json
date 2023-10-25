@@ -1,0 +1,15 @@
+{
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "UIRequiredDeviceCapabilities": [
+          "armv7"
+        ],
+        "MinimumOSVersion": "11.0"
+      }
+    },
+    "android": {
+      "minSdkVersion": 26,
+      "targetSdkVersion": 29
+    }
+  }
